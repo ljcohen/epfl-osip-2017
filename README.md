@@ -1,4 +1,4 @@
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/ljcohen/epfl-osip-2017/master)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://hub.beta.mybinder.org/user/ljcohen-epfl-osip-2017-9khllenf/tree)
 
 # Open Science in Practice 2017
 Workshop for [Open Science in Practice at EPFL 2017](https://osip2017.epfl.ch/).
